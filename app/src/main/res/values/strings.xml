@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">parkingApp</string>
+    <string name="databaseURL">http://data.ntpc.gov.tw/api/v1/rest/datastore/382000000A-000225-002</string>
+    <string name="directionURL">https://maps.googleapis.com/maps/api/directions/json</string>
+    <string name="parkingNameTitle">停車場名稱</string>
+    <string name="parkingAreaTitle">地區</string>
+    <string name="parkingServiceTimeTitle">營業時間</string>
+    <string name="parkingAddressTitle">地址</string>
+</resources>
